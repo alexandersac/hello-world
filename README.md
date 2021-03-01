@@ -1,2 +1,2 @@
-# musical-pancake
+# hello-world
 my first repository
